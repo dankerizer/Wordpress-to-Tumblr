@@ -3,10 +3,10 @@
 // The full path to the XML file you exported from Wordpress
 $xmlFile = 'wp-allposts-published-.xml';
 // Your tumblr log in details
-$tumblr_email = 'thetylerhayes@gmail.com';
-$tumblr_password = 'IhTchp%14';
+$tumblr_email = 'replacethis@gmail.com';
+$tumblr_password = 'replacethis';
 // Tumblr URL (e.g. http://yourname.tumblr.com)
-$tumblrUrl = 'http://hackaway.tumblr.com';
+$tumblrUrl = 'http://replacethis.tumblr.com';
 // If a post from Wordpress is a draft, do you want it posted as private so you // have it available? True if so, False to ignore drafts
 $publishDraftAsPrivate = false;
 // Full path to a file that is writable, so that a log of current URL on your // wordpress blog to new URL on your tumblr can be written (good for redirects // to preserve links, etc)
